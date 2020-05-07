@@ -19,6 +19,8 @@ Analysis Tasks to be performed:
 Please note: For the below statements you need to state the Null and Alternate and then provide a statistical test to accept or reject the Null Hypothesis along with the corresponding ‘p-value’.
 •	Whether the average response time across complaint types is similar or not (overall)
 •	Are the type of complaint or service requested and location related?
+
+
 Dataset Description :
 Field	Description
 Unique Key	(Plain text) - Unique identifier for the complaints
