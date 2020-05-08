@@ -1,6 +1,3 @@
-# Python-ML
-Projects on Python Machine Learning
-
 Customer Service Requests Analysis
 Project 1 
 DESCRIPTION
